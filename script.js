@@ -1,5 +1,8 @@
 "use strict";
 
+// game created to practice functions, classes, objects,
+// arrays, and methods
+
 // created a class for the "good" and "bad" players giving them a name and health
 class Character {
   constructor(name, health) {
